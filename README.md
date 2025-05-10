@@ -8,11 +8,11 @@ To ensure the project runs correctly, follow these steps after cloning the repos
 
 ### 1️⃣ Clone the Repository
 
-Open a terminal or RStudio and run:
+Open a terminal and run:
 
 ```sh
 git clone https://github.com/tricarico672/SM_HW3
-cd <your-repo>
+cd SM_HW3
 ```
 
 ### 2️⃣ Open your IDE of choice, create the environment, and activate it
