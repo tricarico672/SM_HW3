@@ -1,8 +1,8 @@
-PWD /Users/anthony/Desktop/UniTrento/Courses/Second Semester/SM/HW/HW3
+PWD /Users/anthony/Desktop/UniTrento/Courses/Second Semester/SM/HW/HW3/tex_files
 INPUT /usr/local/texlive/2025/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-dist/web2c/texmf.cnf
 INPUT /usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT /Users/anthony/Desktop/UniTrento/Courses/Second Semester/SM/HW/HW3/hw3.tex
+INPUT /Users/anthony/Desktop/UniTrento/Courses/Second Semester/SM/HW/HW3/tex_files/hw3.tex
 OUTPUT hw3.log
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/base/article.cls
@@ -304,9 +304,6 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT ./hw3.aux
-INPUT ./hw3.aux
-INPUT hw3.aux
 OUTPUT hw3.aux
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/cbfonts-fd/lgrcmr.fd
@@ -321,14 +318,8 @@ INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/caption/ltcaption.sty
 INPUT /usr/local/texlive/2025/texmf-dist/tex/latex/caption/ltcaption.sty
-INPUT ./hw3.out
-INPUT ./hw3.out
-INPUT hw3.out
-INPUT hw3.out
-OUTPUT hw3.pdf
-INPUT ./hw3.out
-INPUT ./hw3.out
 OUTPUT hw3.out
+OUTPUT hw3.pdf
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecrm1728.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
@@ -375,22 +366,7 @@ INPUT /usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecbx1200.tfm
-INPUT ./hw3_files/hw3_10_0.png
-INPUT ./hw3_files/hw3_10_0.png
-INPUT ./hw3_files/hw3_10_0.png
-INPUT ./hw3_files/hw3_10_0.png
-INPUT ./hw3_files/hw3_10_0.png
 INPUT /usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/ecbx1095.tfm
-INPUT ./hw3_files/hw3_30_0.png
-INPUT ./hw3_files/hw3_30_0.png
-INPUT ./hw3_files/hw3_30_0.png
-INPUT ./hw3_files/hw3_30_0.png
-INPUT ./hw3_files/hw3_30_0.png
-INPUT ./hw3_files/hw3_47_0.png
-INPUT ./hw3_files/hw3_47_0.png
-INPUT ./hw3_files/hw3_47_0.png
-INPUT ./hw3_files/hw3_47_0.png
-INPUT ./hw3_files/hw3_47_0.png
 INPUT hw3.aux
 INPUT ./hw3.out
 INPUT ./hw3.out

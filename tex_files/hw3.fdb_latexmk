@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1746877835.1892 "/Users/anthony/Desktop/UniTrento/Courses/Second Semester/SM/HW/HW3/hw3.tex" "hw3.pdf" "hw3" 1746877836.18701 0
-  "/Users/anthony/Desktop/UniTrento/Courses/Second Semester/SM/HW/HW3/hw3.tex" 1746877833.74348 58707 75a4bbcb17f561a920154e3abae45fc0 ""
+["pdflatex"] 1746878352.16808 "/Users/anthony/Desktop/UniTrento/Courses/Second Semester/SM/HW/HW3/tex_files/hw3.tex" "hw3.pdf" "hw3" 1746878353.06193 2
+  "/Users/anthony/Desktop/UniTrento/Courses/Second Semester/SM/HW/HW3/tex_files/hw3.tex" 1746878350.95568 58917 543665f312748a6442a571c3b8480258 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc" 1136849721 2971 def0b6c1f0b107b3b936def894055589 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -216,12 +216,12 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1742240516 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1742240490 3345739 95033a0fc1626193d939151cf7355ef0 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "hw3.aux" 1746877836.10612 2400 8e507e1fc2d7d6b477910b4f1016ed11 "pdflatex"
-  "hw3.out" 1746877836.10657 1862 cbbff9feec9a82233d3342b913475602 "pdflatex"
-  "hw3.tex" 1746877833.74348 58707 75a4bbcb17f561a920154e3abae45fc0 ""
-  "hw3_files/hw3_10_0.png" 1746877776.3769 34082 2541612f8f5557dba8ffb4f54aabe0d6 ""
-  "hw3_files/hw3_30_0.png" 1746877776.37702 32415 d470a6096eefbf6b811bd254542ce830 ""
-  "hw3_files/hw3_47_0.png" 1746877776.3771 40603 4ad79ad5781b2f45abd0b76357e9fc0d ""
+  "hw3.aux" 1746878352.97559 2608 3a69073c7041b11b30a9bc5199abf43f "pdflatex"
+  "hw3.out" 1746878352.97613 2023 6139be4b91da46a5d1e85b111538ad0e "pdflatex"
+  "hw3.tex" 1746878350.95568 58917 543665f312748a6442a571c3b8480258 ""
+  "hw3_files/hw3_10_0.png" 0 -1 0 ""
+  "hw3_files/hw3_30_0.png" 0 -1 0 ""
+  "hw3_files/hw3_47_0.png" 0 -1 0 ""
   (generated)
   "hw3.aux"
   "hw3.log"
